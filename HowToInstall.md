@@ -22,10 +22,10 @@ This works for every mod I created for Techtonica. Every other mod or every othe
 2. Search for `[Message:   BepInEx] Chainloader started`
 3. no)  If you didn't found that message BepInEx did not correctly start.
 3. yes) If you found that message look at the next lines. Does one of the following lines equals `[Info   :   BepInEx] Loading [<ModName> <ModVersion>]`?
-4. no)  If this is not the case BepInEx didn't recocnize the mod. Report this as a bug on the mod site (probably nexusmods).
-4. yes) If this is the case check if the next line starts with `[Info   :<ModName>]` and continues with an loading success message.
+4. no)  If this is not the case BepInEx didn't recognize the mod. Report this as a bug on the mod site (probably nexusmods).
+4. yes) If this is the case check if the next line starts with `[Info   :<ModName>]` and continues with a loading success message.
 5. no)  If this is not the case the mod failed to load. Report this as a bug on the mod site (probably nexusmods).
-5. yes) If this is the case the mod loaded successfull.
-6. If you think the mod doesn't work anyway look for any errors that contain the modname in `[game folder]\BepInEx\LogOutput.log`. If you find an error report this as a bug on the mod site (probably nexusmods).
+5. yes) If this is the case the mod loaded successful.
+6. If you think the mod doesn't work anyway look for any errors that contain the mod name in `[game folder]\BepInEx\LogOutput.log`. If you find an error report this as a bug on the mod site (probably nexusmods).
 
 [[HOME]](index.md)
