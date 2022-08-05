@@ -1,5 +1,7 @@
 ## How to install a mod
 
+[[HOME]](index.md)
+
 ### Install BepInEx
 
 1. Download [this](https://github.com/BepInEx/BepInEx/releases/download/v5.4.21/BepInEx_x64_5.4.21.0.zip) .zip file.
@@ -23,3 +25,5 @@
 5. no)  If this is not the case the mod failed to load. Report this as a bug on the mod site (probably nexusmods).
 5. yes) If this is the case the mod loaded successfull.
 6. If you think the mod doesn't work anyway look for any errors that contain the modname in `[game folder]\BepInEx\LogOutput.log`. If you find an error report this as a bug on the mod site (probably nexusmods).
+
+[[HOME]](index.md)
