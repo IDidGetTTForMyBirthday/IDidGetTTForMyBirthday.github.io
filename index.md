@@ -6,6 +6,8 @@ This page is a list of every mod I created.
 
 ## My Mods
 
+[How to install a mod](HowToInstall.md)
+
 ### Meme language
 
 This mod changes some names in Techtonica.
