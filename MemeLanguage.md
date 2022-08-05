@@ -35,7 +35,8 @@ The second time the mod executes code is as soon as `LoadingUI.OnFinishLoading` 
 
 #### Data
 
-.NETFramework version: 4.6.2
-BepInEx.Core version: 5.4.21
+.NETFramework version: `4.6.2`
+BepInEx.Core version: `5.4.21`
+Mod GUID: `io.github.ididgetttformybirthday.MemeLanguage`
 
 [[HOME]](index.md)
