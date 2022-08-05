@@ -6,8 +6,10 @@ This page is mainly for listing the mods that i created. The design is temporary
 
 ### My Mods
 
-#### [Meme language](MemeLanguage.md)
+#### Meme language
 
 This mod changes some names in Techtonica.
+
+[Details](MemeLanguage.md)
 
 `The mod will be available soonTM`
