@@ -6,7 +6,7 @@ This mod changes the name of some ingame object to "meme" names. The names are c
 
 ### Download
 
-Download the mod [here]() on nexusmods.
+`The mod will be available soonTM`
 
 ### Details
 
