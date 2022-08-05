@@ -2,6 +2,8 @@
 
 [[HOME]](index.md)
 
+This works for every mod I created for Techtonica. Every other mod or every other game might not work this way.
+
 ### Install BepInEx
 
 1. Download [this](https://github.com/BepInEx/BepInEx/releases/download/v5.4.21/BepInEx_x64_5.4.21.0.zip) .zip file.
