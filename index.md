@@ -10,6 +10,4 @@ This page is a list of every mod I created.
 
 This mod changes some names in Techtonica.
 
-[Details](MemeLanguage.md)
-
-`The mod will be available soonTM`
+[Details & Download](MemeLanguage.md)
