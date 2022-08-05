@@ -12,7 +12,7 @@ This mod skips the loading confirmation.
 
 ### Details
 
-This mod starts the game as soon as it finished loading so you don't have to press a key anymore. This is usefull for example when you want to go away while Techtonica loads and want that your factory runs as soon as the game finished loading without you being back.
+This mod starts the game as soon as it finished loading so you don't have to press a key anymore. This is useful for example when you want to go away while Techtonica loads and want that your factory runs as soon as the game finished loading without you being back.
 
 ### Informations about bug and error safety
 
