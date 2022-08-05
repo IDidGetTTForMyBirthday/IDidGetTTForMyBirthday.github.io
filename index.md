@@ -13,3 +13,9 @@ This page is a list of every mod I created.
 This mod changes some names in Techtonica.
 
 [Details & Download](MemeLanguage.md)
+
+### Skip Loading Confirm
+
+This mod skips the loading confirmation.
+
+[Details & Download](SkipLoadingConfirm.md)
