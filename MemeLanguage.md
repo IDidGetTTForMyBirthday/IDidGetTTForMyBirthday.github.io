@@ -33,4 +33,9 @@ The mod loading should always work except Harmony fails to patch `LoadingUI.OnFi
 
 The second time the mod executes code is as soon as `LoadingUI.OnFinishLoading` is called. This function is changed using Harmony to rename all defined object before executing the original code.
 
+#### Data
+
+.NETFramework version: 4.6.2
+BepInEx.Core version: 5.4.21
+
 [[HOME]](index.md)
