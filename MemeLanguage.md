@@ -29,6 +29,6 @@ It's unlikely **but not impossible** that this mod creates game bugs or errors.
 
 This mod only executes code at two moments when the mod is loaded at game startup and when the game finished loading before the "Click any button to continue" message.
 
-The mod loading should always work except Harmony fails to patch `LoadingUI.OnFinishLoading` (if this function is removed or changed this will fail). If the mod loading fails the mod is inaktive. This is written as an warning in the log.
+The mod loading should always work except Harmony fails to patch `LoadingUI.OnFinishLoading` (if this function is removed or changed this will fail). If the mod loading fails this mod automatically disables itself. This is written as an warning in the log.
 
 The second time the mod executes code is as soon as `LoadingUI.OnFinishLoading` is called. This function is changed using Harmony to rename all defined object before executing the original code.
