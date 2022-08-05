@@ -1,5 +1,23 @@
 ## IDidGetTTForMyBirthday
 
+Hi I'm IDidGetTTForMyBirthday aka DerJuliusCaesar and one of the lucky ones who got in the first alpha wave of Techtonica. At the moment im working on mods for Techtonica and currently I'm th only one duing this.
+
+This page is mainly for listing the mods that i created. The design is temporary.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/IDidGetTTForMyBirthday/IDidGetTTForMyBirthday.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
