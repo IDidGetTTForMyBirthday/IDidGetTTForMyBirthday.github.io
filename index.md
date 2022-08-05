@@ -11,5 +11,3 @@ This page is mainly for listing the mods that i created. The design is temporary
 This mod changes some names in Techtonica.
 
 `The mod will be available soonTM`
-
-[link](test.md)
