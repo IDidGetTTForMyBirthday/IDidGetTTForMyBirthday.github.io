@@ -25,9 +25,11 @@ Current name changes:
 
 ### Informations about bug and error safety
 
-_v1.0.0_: This version might creates game bugs or errors. This version is achieved and should not be used.
+#### Version 1.0.0:
+This version might creates game bugs or errors. This version is achieved and **should not be used**!
 
-v1.1.0: It's unlikely **but not impossible** that this version creates game bugs or errors.
+#### Version: 1.1.0+:
+It's unlikely **but not impossible** that this version creates game bugs or errors.
 
 #### Addidtional informations for the devs of Techtonica
 
