@@ -17,11 +17,13 @@ Current name changes:
 - Power Floor     -->   Uppy Downy Supporties
 - Floors          -->   Supporties
 - Inserter        -->   Handy Mandy
-- Long Inserter   -->   Long Larry
+- Long Inserter   -->   Long Larry (might be changed in 1.2.0)
 - Stack Inserter  -->   Stacky Jackie
-- Fast Inserter   -->   Handy Randy
+- Fast Inserter   -->   Handy Randy (might be changed in 1.2.0)
 - Filter Inserter -->   Picky Ricky
 - Biobrick        -->   Flower Power
+- Advanced Belt   -->   Jas Belts (will be added in 1.2.0)
+- Storage Containers --> Boxy Bertha (will be added in 1.2.0)
 
 ### Informations about bug and error safety
 
