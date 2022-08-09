@@ -22,8 +22,8 @@ Current name changes:
 - Fast Inserter   -->   Handy Randy (might be changed in the future)
 - Filter Inserter -->   Picky Ricky
 - Biobrick        -->   Flower Power
-- Advanced Belt   -->   Jas Belts (will be added in 1.2.0)
-- Storage Containers --> Boxy Bertha (will be added in 1.2.0)
+- Advanced Belt   -->   Jas Belts
+- Storage Containers --> Boxy Bertha
 
 ### Informations about bug and error safety
 
