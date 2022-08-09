@@ -23,7 +23,7 @@ Current name changes:
 - Filter Inserter -->   Picky Ricky
 - Biobrick        -->   Flower Power
 - Advanced Belt   -->   Jas Belts
-- Storage Containers --> Boxy Bertha
+- Containers --> Boxy Bertha
 
 ### Informations about bug and error safety
 
