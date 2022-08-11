@@ -12,18 +12,18 @@ This mod changes the name of some ingame object to "meme" names. The names are c
 
 ### Details
 
-This mod changes the name of some ingame object to "meme" names. The names are chosen by the community and are based on jokes.
+This mod changes the name of some ingame object as well as research to "meme" names. The names are chosen by the community and are based on jokes.
 Current name changes:
 - Power Floor     -->   Uppy Downy Supporties
 - Floors          -->   Supporties
 - Inserter        -->   Handy Mandy
-- Long Inserter   -->   Long Larry (might be changed in the future)
+- Long Inserter   -->   Long Larry
 - Stack Inserter  -->   Stacky Jackie
-- Fast Inserter   -->   Handy Randy (might be changed in the future)
+- Fast Inserter   -->   Rapid Randy
 - Filter Inserter -->   Picky Ricky
 - Biobrick        -->   Flower Power
 - Advanced Belt   -->   Jas Belts
-- Containers --> Boxy Bertha
+- Containers      -->   Boxy Bertha
 
 ### Informations about bug and error safety
 
