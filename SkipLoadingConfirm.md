@@ -6,7 +6,7 @@ This mod skips the loading confirmation.
 
 ### Download
 
-`The mod will be available soonTM`
+[Download on Nexusmods](https://www.nexusmods.com/techtonica/mods/2)
 
 [How to install a mod](HowToInstall.md)
 
