@@ -1,6 +1,6 @@
 ## IDidGetTTForMyBirthday
 
-Hi I'm IDidGetTTForMyBirthday aka DerJuliusCaesar and one of the lucky ones who got in the first alpha wave of Techtonica. At the moment I'm working on mods for Techtonica.
+Hi I'm IDidGetTTForMyBirthday aka DerJuliusCaesar and one of the lucky ones who got in the first alpha wave of Techtonica.
 
 [All Techtonica mods on Nexusmods](https://www.nexusmods.com/techtonica)
 
